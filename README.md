@@ -30,9 +30,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to explore the live portfolio: [Your Portfolio Link]
+Feel free to explore the live portfolio: https://candykutta.github.io/photography/
 
-**Note:** Add your live portfolio link where it says "Your Portfolio Link."
+
 
 If you have any questions or need assistance, feel free to open an issue or contact me!
 
