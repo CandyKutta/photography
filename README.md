@@ -30,7 +30,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to explore the live portfolio: https://candykutta.github.io/photography/
+Feel free to explore the live portfolio: https://harinivasanc2000.github.io/photography/
 
 
 
